@@ -20,6 +20,6 @@ Notiva is a simple note-taking web app that lets you write and save notes easily
 ## 📸 screenshots: 
 Home page : public/imgss/HomePage.png
 
-
-## 📸 Figma Url : https://www.figma.com/design/9pvxF3gqYdEwXXUEHj1ShE/Notiva?node-id=0-1&t=phBhygVeoAcSUfR1-1
+## 📸 Figma Url : 
+https://www.figma.com/design/9pvxF3gqYdEwXXUEHj1ShE/Notiva?node-id=0-1&t=phBhygVeoAcSUfR1-1
 
