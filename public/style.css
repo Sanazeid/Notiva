@@ -1,0 +1,51 @@
+body {
+  background-color: #dce7f3;
+  color: white;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; 
+}
+
+.container {
+  text-align: center;
+  width: 100%;
+  max-width: 600px;
+}
+
+.note button {
+  background-color: #F5CBCB;
+  color: white;
+  width: 200px;
+  margin-top: 30px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  width: 200px;
+  font-family: Arial, sans-serif;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.img1 img {
+  width: 50%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+h1 {
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  margin: 10px 0; 
+  z-index: 1000; 
+  text-align: center;
+  width: 100%;
+}
